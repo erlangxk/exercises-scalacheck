@@ -1,4 +1,4 @@
-/*
+Seq('A','E','I','O','U')/*
  * scala-exercises - exercises-scalacheck
  * Copyright (C) 2015-2016 47 Degrees, LLC. <http://www.47deg.com>
  */
@@ -87,8 +87,8 @@ object GeneratorsSection
    * )
    * }}}
    *
-   * Now, the vowel generator will generate ''E:s'' more often than ''U:s''. Roughly, 4/14 of the values generated
-   * will be ''E:s'', and 1/14 of them will be ''U:s''.
+   * Now, the vowel generator will generate ''E:s'' more often than ''U:s''. Roughly, 4/13 of the values generated
+   * will be ''E:s'', and 1/13 of them will be ''U:s''.
    *
    * Other methods in the `Gen` API:
    * {{{
